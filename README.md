@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img height="520px" src="https://github.com/TiagoAlmeidaPoa/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
+  <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 
 
 <p align="center">
@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
-<p align="center"> <a href="https://github.com/TiagoAlmeidaPoa/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=valdircezar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdircezar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="center"> <a href="https://github.com/TiagoAlmeidaPoa/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tiagoalmeidapoa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdircezar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
