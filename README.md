@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
+  <img height="300px" src="dev.gif" />
 
 
 <p align="center">
